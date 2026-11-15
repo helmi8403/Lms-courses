@@ -1,0 +1,72 @@
+[
+  {
+    "id": "response",
+    "title": "Restoration, investigation and improvement",
+    "path": "diagrams/art-response.jpg",
+    "anchor": "Module 4",
+    "slide_anchor": "4.5 From firefighting",
+    "caption": "Four complementary concerns, not a compulsory sequence or exclusive team ownership. Original teaching comparison.",
+    "alt": "Restoration, investigation and improvement \u2014 labelled purple conceptual schematic.",
+    "note": "Read left to right as different responsibilities, not a compulsory sequence. Incident management prioritizes service restoration. Problem management investigates causes and reduces recurrence. Improvement evaluates evidence and strengthens capability. A fix requires appropriate change assessment and authority; the picture does not authorize changes or guarantee recovery. Sources: https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/itil-1/itil-5-foundation-version-50-4154/ ; https://www.itil.com/Itil-News-and-Announcements/two-sides-of-the-same-coin-ITIL-product-version-5-and-ITIL-service-version-5"
+  },
+  {
+    "id": "dimensions",
+    "title": "Four interacting dimensions",
+    "path": "diagrams/art-dimensions.jpg",
+    "anchor": "Module 2 - Assess",
+    "slide_anchor": "2. The four dimensions",
+    "caption": "All four dimensions apply to the same service. Subconcerns are teaching examples, not an exhaustive official list.",
+    "alt": "Four interacting dimensions \u2014 labelled purple conceptual schematic.",
+    "note": "Assess all four dimensions together. The labels identify lenses on the same service, not independent departments. People need roles and competence; information and technology need quality and suitable tools; partners need coordinated responsibilities; streams and processes need effective handoffs. Central learner represents outcomes, not an additional official dimension. Sources: https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/itil-1/itil-5-foundation-version-50-4154/ ; https://www.itil.com/Itil-News-and-Announcements/two-sides-of-the-same-coin-ITIL-product-version-5-and-ITIL-service-version-5"
+  },
+  {
+    "id": "cocreation",
+    "title": "Value co-creation",
+    "path": "diagrams/art-cocreation.jpg",
+    "anchor": "Module 1 - Understand",
+    "slide_anchor": "1.2 Value is contextual",
+    "caption": "Provider and consumer contributions support outcomes. Value differs by stakeholder and context. Original teaching representation.",
+    "alt": "Value co-creation \u2014 labelled purple conceptual schematic.",
+    "note": "The provider and consumer contribute different resources. Co-creation does not excuse poor service or transfer every risk to the learner. The central outcome is illustrative, not evidence of a real result. Sources: https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/itil-1/itil-5-foundation-version-50-4154/ ; https://www.itil.com/Itil-News-and-Announcements/two-sides-of-the-same-coin-ITIL-product-version-5-and-ITIL-service-version-5"
+  },
+  {
+    "id": "lifecycle",
+    "title": "Eight activities with feedback",
+    "path": "diagrams/art-lifecycle.jpg",
+    "anchor": "Module 3 - Work",
+    "slide_anchor": "3. Digital product",
+    "caption": "Feedback may revisit any relevant activity. These paths illustrate learning, not a mandatory sequence. Original teaching representation.",
+    "alt": "Eight activities with feedback \u2014 labelled purple conceptual schematic.",
+    "note": "Eight activities are verified in the public PeopleCert ITIL architect article. Operate to Design and Transition to Build feedback paths are illustrative, not prescribed. Sources: https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/itil-1/itil-5-foundation-version-50-4154/ ; https://www.itil.com/Itil-News-and-Announcements/two-sides-of-the-same-coin-ITIL-product-version-5-and-ITIL-service-version-5"
+  },
+  {
+    "id": "valuesystem",
+    "title": "Connected service value system",
+    "path": "diagrams/art-valuesystem.jpg",
+    "anchor": "Module 4 - Connect",
+    "slide_anchor": "4.1 A system",
+    "caption": "Principles and governance guide work; practices enable it; evidence drives learning. Original conceptual map, not the official model.",
+    "alt": "Connected service value system \u2014 labelled purple conceptual schematic.",
+    "note": "Public PeopleCert overview supports the named components. The layered geometry and arrangement are original explanatory choices, not the official ITIL figure. The official continual improvement and AI capability model details remain unverified. Sources: https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/itil-1/itil-5-foundation-version-50-4154/ ; https://www.itil.com/Itil-News-and-Announcements/two-sides-of-the-same-coin-ITIL-product-version-5-and-ITIL-service-version-5"
+  },
+  {
+    "id": "stream",
+    "title": "Active work and waiting",
+    "path": "diagrams/art-stream.jpg",
+    "anchor": "Module 5 - Investigate",
+    "slide_anchor": "5.2 Measure elapsed",
+    "caption": "Fictional timing: 30 active + 90 waiting = 120 minutes; 75% waiting. Segment widths are proportional.",
+    "alt": "Active work and waiting \u2014 labelled purple conceptual schematic.",
+    "note": "Fictional timing: 30 active + 90 waiting = 120 minutes; 75% waiting. Segment widths are proportional. Triage 10, queue 40, fulfil 15, wait 50, confirm 5 minutes. Sources: https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/itil-1/itil-5-foundation-version-50-4154/ ; https://www.itil.com/Itil-News-and-Announcements/two-sides-of-the-same-coin-ITIL-product-version-5-and-ITIL-service-version-5"
+  },
+  {
+    "id": "ai",
+    "title": "Bounded AI assistance",
+    "path": "diagrams/art-ai.jpg",
+    "anchor": "Module 6 - Use",
+    "slide_anchor": "6.3 Accountability",
+    "caption": "AI drafts; a responsible person checks evidence and authority. Uncertain cases escalate. Original example, not an official AI capability model.",
+    "alt": "Bounded AI assistance \u2014 labelled purple conceptual schematic.",
+    "note": "The example permits support-response drafting only. It grants no authority to change grades, permissions or refunds. Human review is meaningful only when reviewers have evidence, competence and power to reject or escalate. Feedback supports evaluation and knowledge improvement. This is not a substitute for the unverified official ITIL AI Capability Model. Sources: https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/itil-1/itil-5-foundation-version-50-4154/ ; https://www.itil.com/Itil-News-and-Announcements/two-sides-of-the-same-coin-ITIL-product-version-5-and-ITIL-service-version-5"
+  }
+]
