@@ -1,6 +1,8 @@
 # ITIL Version 5 Foundation: learning course
 
-**Edition:** independently authored draft 0.1, 15 November 2026.
+**Latest edition:** [detailed draft v0.2: manuscript, PDF and PowerPoint](editions/v0.2/README.md), 15 November 2026. The modules and original full exports below are retained as the earlier v0.1 edition.
+
+The latest edition remains independently authored and has unresolved criterion-by-criterion and official-source coverage gaps. No practice exams, videos or labs.
 
 Learn how digital products and services create value, and how to improve their management using a single fictional case: **Harbour Learning**, a training provider building a reliable online learning service.
 
