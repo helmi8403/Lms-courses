@@ -9,7 +9,7 @@ Independent, original instructional course. Edition 1 · 15 November 2026.
 - [Official references](sources/REFERENCES.md)
 - [Structured authoring source](course-content.json)
 - `lessons/`: individual editable chapters
-- Pilot and full PDF/PowerPoint exports are integrated separately after visual quality review.
+- [Full-course draft PDF and PowerPoint](full/README.md)
 
 ## Scope
 
@@ -26,4 +26,8 @@ The material creates no cloud resources and performs no live validation. Images 
 - [PowerPoint pilot](pilot/AZ-305-Pilot.pptx)
 - [PDF pilot](pilot/AZ-305-Pilot.pdf)
 
-Pilot artifacts are introductory; full-course exports will be added separately after review.
+Pilot artifacts are introductory. Full-course draft exports are available below.
+
+## Full-course draft downloads
+
+[PDF and PowerPoint exports of the current authored course](full/README.md). These remain drafts with the coverage limitations documented above; no practice exams, videos or labs.

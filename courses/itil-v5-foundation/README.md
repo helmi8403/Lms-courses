@@ -41,3 +41,7 @@ You should be able to explain why a decision improves an outcome, identify who b
 ## Excluded formats
 
 No practice exams, videos or hands-on labs. Explanatory examples and optional classroom reflection prompts remain.
+
+## Full-course draft downloads
+
+[PDF and PowerPoint exports of the current authored course](full/README.md). These remain drafts with the coverage limitations documented above; no practice exams, videos or labs.
