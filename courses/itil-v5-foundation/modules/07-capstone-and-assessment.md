@@ -1,80 +1,29 @@
-# 7. Capstone and original assessment
+# 7. Integrated course review
 
-## Harbour Learning capstone
+This closing chapter connects the course concepts through an explanatory case. It contains no practice examination, video lesson or hands-on lab.
 
-Harbour wants to launch a new professional course. Enrollment is slow, assessment submissions sometimes fail, and an AI assistant is proposed to reduce support demand. The sponsor wants growth, learners want reliable access, and instructors want trustworthy assessment. All details are fictional.
+## Harbour Learning: connecting the ideas
 
-Prepare a concise portfolio:
+Harbour wants to provide dependable professional learning. Its learners need access and trustworthy assessments; instructors need usable evidence; the sponsor needs outcomes that justify investment. Defining the offering makes those expectations explicit rather than equating software features with a complete service.
 
-1. Define the offering, intended outcomes, stakeholders and responsibilities.
-2. Analyze utility, warranty, costs, risks, quality, experience and sustainability.
-3. Complete a four-dimension review.
-4. Show how each lifecycle activity contributes, including feedback and operational learning.
-5. Apply at least three principles to a difficult tradeoff.
-6. Describe governance decisions separately from management activity.
-7. Explain immediate restoration, cause investigation and a proportionate change route.
-8. Map an end-to-end value stream and identify a constraint.
-9. Propose one improvement with a baseline, target, experiment and evaluation.
-10. Evaluate the AI proposal with explicit limits and human accountability.
-11. Explain where DevOps and PRINCE2 could help without replacing ongoing service responsibility.
+Utility concerns what learners can accomplish; warranty concerns dependable use under agreed conditions. A certificate is an output, whereas demonstrated competence is an intended outcome. Costs and risks are distributed across providers, consumers and suppliers, so benefits must be evaluated from more than one perspective.
 
-### Rubric
+The four dimensions expose different causes of poor performance. Staff may lack authority to escalate, information may be incomplete, a supplier may be poorly integrated, or the end-to-end work may contain avoidable queues. Buying a tool addresses only part of that situation.
 
-Assess each item as **missing**, **described**, or **reasoned with evidence**. A strong submission explains tradeoffs, labels assumptions and uses outcome-oriented measures. Do not award full credit for terminology alone. This rubric is an original learning aid, not an official examination marking scheme.
+The eight lifecycle activities connect discovery and design to acquisition, building, transition, operation, delivery and support. They can interact repeatedly. A recurring support problem can generate new discovery and design work, not merely another ticket.
 
-## Original knowledge checks
+Principles guide decisions about priorities and methods. Focusing on value and inspecting the current situation helps avoid unnecessary replacement. Iterative feedback and collaboration expose weak assumptions. Holistic thinking prevents one team's improvement from becoming another team's burden. Simplicity and appropriate automation help remove unnecessary work without abandoning necessary control.
 
-These are independently written practice questions, not official exam questions or a prediction of exam content.
+Governance establishes direction and accountability. Management turns that direction into coordinated work. Practices provide recurring capability, while value streams show how capabilities combine to create outcomes. A successful project or deployment does not end responsibility for the service.
 
-1. A useful course platform repeatedly fails during assessments. What is the clearest issue?
-   - A. Utility is automatically absent.
-   - B. Warranty is weak despite potentially useful functionality.
-   - C. More features always solve the problem.
-   - D. Consumer responsibilities disappear.
-   **Answer: B.** Useful functions and dependable operation are distinct concerns.
-2. Which best demonstrates an outcome?
-   - A. A report was generated.
-   - B. Ten servers were installed.
-   - C. Learners can apply an assessed skill at work.
-   - D. A release ticket was closed.
-   **Answer: C.** The others are outputs or activity evidence, not the intended stakeholder result.
-3. After restoring access through a workaround, what remains important?
-   - A. Treating the cause as solved.
-   - B. Deleting the incident history.
-   - C. Investigating recurrence and learning where appropriate.
-   - D. Refusing further feedback.
-   **Answer: C.** Restoration and prevention serve different needs.
-4. Account creation takes two minutes; approval takes three days. What should improvement examine first?
-   - A. Only the fastest activity.
-   - B. End-to-end flow and the approval constraint.
-   - C. A new logo.
-   - D. More account-creation dashboards.
-   **Answer: B.** Local speed does not necessarily change total lead time.
-5. A supplier meets its target but learners cannot access video. Which response is strongest?
-   - A. Ignore users because the contract target passed.
-   - B. Examine the whole service and cross-boundary dependencies.
-   - C. Remove all monitoring.
-   - D. Declare value achieved.
-   **Answer: B.** Supplier measures are evidence, not a substitute for consumer outcomes.
-6. Code is installed but a feature remains unavailable to users. Which distinction matters?
-   - A. Deployment versus release.
-   - B. Customer versus sponsor only.
-   - C. Output versus data type.
-   - D. All lifecycle activity has ended.
-   **Answer: A.** Installation and availability for use can be separate events.
-7. What is the strongest first step for an AI support proposal?
-   - A. Enable autonomous actions immediately.
-   - B. Define the problem, limits and representative evaluation.
-   - C. Assume fluent output proves accuracy.
-   - D. Upload all learner records.
-   **Answer: B.** Capability and responsible evaluation precede an unsupported claim of benefit.
-8. A project closes successfully. What follows?
-   - A. Service responsibility ends.
-   - B. Outcomes need no evaluation.
-   - C. Ongoing operation, support and improvement still require owners.
-   - D. Governance is unnecessary.
-   **Answer: C.** Time-bound delivery and continuing service management are complementary.
+Incident response restores the ability to learn; problem investigation addresses recurring causes. Change, deployment and release have different purposes. Reliable evidence and proportionate coordination support both timely improvement and dependable operation.
 
-## Reflection
+AI can assist selected activities, but fluent output is not evidence of correctness. Its use needs clear boundaries, representative evaluation, data stewardship and accountable oversight. DevOps can strengthen collaboration and delivery feedback; PRINCE2 can organize a time-bound initiative. Neither removes ongoing service-management responsibilities.
 
-Identify one answer you originally chose for the wrong reason. Explain the misconception and a real example that would change your judgment. Return to the relevant lesson, rather than memorizing only the answer letter.
+## Summary
+
+Successful management joins outcomes, relationships, balanced capability, coordinated work and evidence-based improvement. The course explains those connections with fictional examples. Detailed official terminology and exhaustive examination-criterion coverage still require review against current licensed PeopleCert materials.
+
+## Scope decision
+
+Practice examinations, videos and labs are excluded from this course at the owner's request. The former original multiple-choice bank is no longer part of the active course; earlier versions remain in Git history. Explanatory examples and classroom reflection prompts in earlier lessons are not executable labs or mock examinations.

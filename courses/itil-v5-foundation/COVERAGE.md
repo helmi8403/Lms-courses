@@ -16,16 +16,16 @@ Reference baseline: PeopleCert-authored ITIL Version 5 Foundation syllabus v5.0,
 
 The referenced syllabus has 95 numbered assessment criteria. This release does not assert a criterion-by-criterion completeness check. A reviewer must map each criterion to a lesson, check terminology against the current licensed materials, and record gaps before this course can be described as exam-complete. Do not silently mark an unmapped criterion covered.
 
-The seven lessons organize fifteen teaching topics: orientation, vocabulary, offerings, relationships, dimensions, lifecycle, principles, governance, operations, practice capability, improvement, value streams, AI, complementary frameworks, and capstone/assessment. Organization into seven files does not reduce the scope to seven concepts.
+The seven lessons organize fifteen teaching topics: orientation, vocabulary, offerings, relationships, dimensions, lifecycle, principles, governance, operations, practice capability, improvement, value streams, AI, complementary frameworks, and integrated review. Organization into seven files does not reduce the scope to seven concepts.
 
-Advanced practice mastery, official instructor material, official exam questions, and licensed stencil packs are not included. The suggested study duration, fictional case and rubric are author-created enrichment. The eight original knowledge checks are not a full mock examination.
+Advanced practice mastery, official instructor material, official exam questions, and licensed stencil packs are not included. The suggested study duration, fictional case and rubric are author-created enrichment. Practice examinations, videos and labs are excluded at the owner’s request. The earlier knowledge-check bank has been removed from the active course.
 
 ## Editorial acceptance checklist
 
 - [x] All seven broad subject areas have a teaching location.
 - [x] Eight lifecycle activities are used, not a legacy six-activity substitution.
 - [x] Fictional data and author recommendations are labeled.
-- [x] Original exercises have model reasoning or answer rationales.
+- [x] Explanatory examples include model reasoning.
 - [x] No official logo/stencil or official examination questions are reproduced.
 - [ ] Every assessment criterion mapped and independently reviewed.
 - [ ] Terminology validated against current licensed official materials.

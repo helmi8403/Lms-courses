@@ -16,9 +16,9 @@ This course addresses the seven Foundation subject areas identified in the Peopl
 4. [Operations, practices and improvement](modules/04-operations-and-improvement.md): delivery/operations; capability; continual improvement.
 5. [Value streams](modules/05-value-streams.md): end-to-end flow and measurement.
 6. [AI and complementary frameworks](modules/06-ai-and-frameworks.md): responsible AI; DevOps and PRINCE2.
-7. [Capstone and assessment](modules/07-capstone-and-assessment.md): integrated application; original assessment with rationales.
+7. [Integrated course review](modules/07-capstone-and-assessment.md): a connected explanatory case and summary.
 
-Suggested self-study schedule: seven sessions of 60–90 minutes, plus a capstone. This is an author recommendation, not an official training-duration requirement. Each session: explain the concepts in your own words, apply them to the case, complete the exercise, then compare with the model reasoning.
+Suggested self-study schedule: seven sessions of 60–90 minutes, with a concluding integrated review. This is an author recommendation, not an official training-duration requirement. Each session: explain the concepts in your own words, apply them to the case, read the worked example and its reasoning.
 
 ## Visuals
 
@@ -37,3 +37,7 @@ You should be able to explain why a decision improves an outcome, identify who b
 ## Pilot chapter downloads
 
 [PowerPoint and PDF pilot chapter](pilot/README.md), with teaching notes and official source links. These pilot files do not represent completion of the entire course.
+
+## Excluded formats
+
+No practice exams, videos or hands-on labs. Explanatory examples and optional classroom reflection prompts remain.
