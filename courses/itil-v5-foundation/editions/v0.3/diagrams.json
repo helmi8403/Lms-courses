@@ -1,0 +1,90 @@
+[
+  {
+    "id": "response",
+    "title": "Restoration, investigation and improvement",
+    "anchor": "Module 4",
+    "slide_anchor": "4.5 From firefighting",
+    "labels": [
+      "Incident: restore service",
+      "Problem: investigate causes",
+      "Improvement: evaluate results"
+    ],
+    "caption": "Restoration can precede cause resolution. A proposed fix still needs appropriate change assessment. Original teaching illustration.",
+    "alt": "Three connected scenes contrast helping a user restore access, examining a damaged component and evaluating an improved service.",
+    "note": "Read left to right as different responsibilities, not a compulsory sequence. Incident management prioritizes service restoration. Problem management investigates causes and reduces recurrence. Improvement evaluates evidence and strengthens capability. A fix requires appropriate change assessment and authority; the picture does not authorize changes or guarantee recovery.",
+    "source": "diagrams/response.png",
+    "sha256": "6fc6bee4430ceeb0d697b046857a4bc917a4f2721bcd5d4e9c69f483ca043841"
+  },
+  {
+    "id": "dimensions",
+    "title": "Four interacting dimensions",
+    "anchor": "Module 2 - Assess",
+    "slide_anchor": "2. The four dimensions",
+    "labels": [
+      "Organizations and people",
+      "Information and technology",
+      "Value streams and processes",
+      "Partners and suppliers"
+    ],
+    "caption": "The same service depends on all four dimensions. A technology change affects people, partners and work. Original teaching illustration.",
+    "alt": "Four interlinked illustrated quadrants surround a learner: staff collaboration, technology, workflows and suppliers.",
+    "note": "Assess all four dimensions together. The labels identify lenses on the same service, not independent departments. People need roles and competence; information and technology need quality and suitable tools; partners need coordinated responsibilities; streams and processes need effective handoffs. Central learner represents outcomes, not an additional official dimension.",
+    "source": "diagrams/dimensions.png",
+    "sha256": "cb8446a9b5ac6887f5f8c286912094afc47285b770eff7ac2955bddd9527d386"
+  },
+  {
+    "id": "cocreation",
+    "title": "Value co-creation",
+    "anchor": "Module 1 - Understand",
+    "slide_anchor": "1.2 Value is contextual",
+    "caption": "Provider and consumer contributions support outcomes. Value differs by stakeholder and context. Original teaching representation.",
+    "alt": "Interlocking ribbons show provider access, information and support meeting consumer needs, participation and feedback around a learning outcome.",
+    "note": "The provider and consumer contribute different resources. Co-creation does not excuse poor service or transfer every risk to the learner. The central outcome is illustrative, not evidence of a real result.",
+    "source": "diagrams/cocreation.png",
+    "sha256": "8681f674f30de09b9d172c1d590a5e5aa677bd42c35a6176edaa938b978c67ab"
+  },
+  {
+    "id": "lifecycle",
+    "title": "Eight activities with feedback",
+    "anchor": "Module 3 - Work",
+    "slide_anchor": "3. Digital product",
+    "caption": "Feedback may revisit any relevant activity. These paths illustrate learning, not a mandatory sequence. Original teaching representation.",
+    "alt": "Eight named activities surround value and feedback, with return paths from support to discovery, operation to design and transition to build.",
+    "note": "Eight activities: discover, design, acquire, build, transition, operate, deliver, support. Their arrangement is a teaching aid. They are not necessarily sequential departments or a prescribed workflow. The cross-links are examples, not the only permitted relationships.",
+    "source": "diagrams/lifecycle.png",
+    "sha256": "2bf4ea86db528c63bef28ac289c17a0654aa771ddda61f69d2467be5ec116cf1"
+  },
+  {
+    "id": "valuesystem",
+    "title": "Connected service value system",
+    "anchor": "Module 4 - Connect",
+    "slide_anchor": "4.1 A system",
+    "caption": "Principles and governance guide work; practices enable it; evidence drives learning. Original conceptual map, not the official model.",
+    "alt": "A garden metaphor connects demand and opportunity, lifecycle work, guiding principles, governance, practices and continual improvement to stakeholder outcomes.",
+    "note": "Interpret the garden as relationships, not a verified official ITIL Value System figure. Governance provides direction and oversight. Principles guide choices. Practices supply capabilities. Lifecycle work serves demand and opportunities. Evidence of outcomes informs continual improvement. The exact official continual improvement model remains unverified in this draft.",
+    "source": "diagrams/valuesystem.png",
+    "sha256": "11a2765e89c5ebb77852d84f5e9d2ee1fa31cd227cee024e71fb9e508250a6b3"
+  },
+  {
+    "id": "stream",
+    "title": "Active work and waiting",
+    "anchor": "Module 5 - Investigate",
+    "slide_anchor": "5.2 Measure elapsed",
+    "caption": "Fictional example: 30 active + 90 waiting = 120 minutes, 75% waiting. Ribbon widths are schematic; timing labels are exact.",
+    "alt": "A service-request ribbon shows triage 10 minutes, queue 40, fulfil 15, wait 50 and confirm 5, with active and waiting totals.",
+    "note": "This is fictional teaching data. Active work =10+15+5=30 minutes. Waiting=40+50=90 minutes. Elapsed=120 minutes and waiting share=90/120=75%. Time categories must be defined consistently. Ribbon widths are schematic, not a proportional time chart. Improving active work alone can leave most delay unchanged.",
+    "source": "diagrams/stream.png",
+    "sha256": "ae1dff029b5a9b3f4b52ba7acfa297cc322baa278a2d327f168499f33bbb23d9"
+  },
+  {
+    "id": "ai",
+    "title": "Bounded AI assistance",
+    "anchor": "Module 6 - Use",
+    "slide_anchor": "6.3 Accountability",
+    "caption": "AI drafts; a responsible person checks evidence and authority. Uncertain cases escalate. Original example, not an official AI capability model.",
+    "alt": "Approved knowledge feeds an AI draft, a reviewer checks evidence, uncertain cases go to an expert, and outcomes feed monitored learning.",
+    "note": "The example permits support-response drafting only. It grants no authority to change grades, permissions or refunds. Human review is meaningful only when reviewers have evidence, competence and power to reject or escalate. Feedback supports evaluation and knowledge improvement. This is not a substitute for the unverified official ITIL AI Capability Model.",
+    "source": "diagrams/ai.png",
+    "sha256": "969bcf94421ce9d4c024a3df12e43e428c9727e1f40a519cbc114f7b2ed40ec1"
+  }
+]

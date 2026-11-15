@@ -1,6 +1,6 @@
 # ITIL Version 5 Foundation: learning course
 
-**Latest edition:** [detailed draft v0.2: manuscript, PDF and PowerPoint](editions/v0.2/README.md), 15 November 2026. The modules and original full exports below are retained as the earlier v0.1 edition.
+**Latest edition:** [illustrated draft v0.3: seven teaching diagrams, PDF and PowerPoint](editions/v0.3/README.md), 15 November 2026. [Detailed v0.2](editions/v0.2/README.md) and the original v0.1 modules and exports remain available.
 
 The latest edition remains independently authored and has unresolved criterion-by-criterion and official-source coverage gaps. No practice exams, videos or labs.
 
