@@ -33,3 +33,7 @@ You should be able to explain why a decision improves an outcome, identify who b
 ![Original editorial learning ecosystem showing interconnected digital-service work and people; a metaphor, not an official ITIL model.](assets/learning-ecosystem.webp)
 
 *Original AI-generated editorial illustration. Not an official PeopleCert diagram or stencil.*
+
+## Pilot chapter downloads
+
+[PowerPoint and PDF pilot chapter](pilot/README.md), with teaching notes and official source links. These pilot files do not represent completion of the entire course.
