@@ -1,0 +1,69 @@
+[
+  {
+    "title": "ITIL Foundation\n(Version 5)",
+    "body": "Pilot chapter\nOrientation and exam preparation",
+    "note": "Independent learning material. Not accredited training or an official PeopleCert publication. Prepared 15 November 2026 (SGT)."
+  },
+  {
+    "title": "Your starting point",
+    "body": "This chapter explains why a service exists, introduces the main areas of study, and outlines the Foundation exam format.\n\nA fictional workplace-support service illustrates the concepts. Later chapters develop the terminology and methods in detail.",
+    "note": "Original instructional objectives. This pilot alone does not cover the full Foundation syllabus."
+  },
+  {
+    "title": "Digital service work is connected",
+    "body": "A useful service depends on people working together throughout its life.\n\nA new feature can change support demand. A recurring incident can reveal a design problem. A supplier decision can affect customer experience.",
+    "art": true,
+    "note": "Original conceptual illustration, not an official ITIL figure. The pictured activities are an interpretation for teaching, not a prescribed sequence."
+  },
+  {
+    "title": "The learning landscape",
+    "body": "Core concepts and value co-creation\nFour dimensions of product and service management\nITIL Value System and guiding principles\nProduct and service lifecycle\nContinual improvement, value streams and AI",
+    "note": "Foundation topic overview, paraphrased from PeopleCert. Use the current licensed syllabus for criterion-level coverage. This is an orientation map, not an exhaustive assessment checklist.",
+    "source": true
+  },
+  {
+    "title": "A workplace example",
+    "body": "Contoso employees lose time chasing access to the tools they need. The support team closes many tickets, but new starters still wait.\n\nA useful outcome would be that each new starter can work on the agreed start date. A ticket count alone cannot establish that outcome.",
+    "note": "Original fictional worked example, not an official exam question."
+  },
+  {
+    "title": "Four perspectives on the same problem",
+    "body": "People: clear ownership and appropriate training.\nTechnology: consistent information across connected systems.\nPartners: coordinated responsibilities with external suppliers.\nWork: visible handoffs, waiting time and repeated activity.",
+    "note": "Original teaching interpretation of the four dimensions. Formal dimension names: Organizations and People; Information and Technology; Partners and Suppliers; Value Streams and Processes.",
+    "source": true
+  },
+  {
+    "title": "The Foundation exam",
+    "body": "40 multiple-choice questions\n60 minutes\nClosed book\n65% minimum pass mark",
+    "note": "Source: PeopleCert ITIL Foundation (Version 5) certification page, checked 15 November 2026 (SGT). 65% of 40 is 26. Confirm current booking conditions before the exam.",
+    "exam": true,
+    "source": true
+  },
+  {
+    "title": "Understanding the exam format",
+    "body": "The Foundation assessment uses multiple-choice questions and is closed book.\n\nThe published duration is 60 minutes for 40 questions. A 65% pass mark corresponds to 26 correct answers out of 40.",
+    "note": "Exam facts from the PeopleCert Foundation (Version 5) certification page. The 26-answer threshold is calculated from the published pass percentage and question count. This slide explains logistics; it contains no practice examination.",
+    "source": true
+  },
+  {
+    "title": "A concept-focused reading approach",
+    "body": "Read each concept in the licensed learning material.\nConnect the terminology to its purpose and intended outcome.\nUse the Contoso example to see the idea in context.\nSummarise the relationships in plain language.\nRevisit unclear terms using the official glossary.",
+    "note": "Original reading guidance. This pilot includes no practice examinations, videos or hands-on labs."
+  },
+  {
+    "title": "Worked example: activity versus outcome",
+    "body": "Contoso closes 30% more tickets, but new starters still wait three days for access. More activity does not necessarily mean better outcomes.\n\nA useful measure is the share of starters with working access by their agreed start time. Reviewing approval queues can reveal the delay.",
+    "note": "Original fictional worked example. Ticket volume measures activity; timely usable access reflects the intended outcome. Reviewing waiting time at approval handoffs helps locate a possible improvement opportunity. No learner task or lab is required."
+  },
+  {
+    "title": "Before you book",
+    "body": "Check the exact exam version and language.\nReview the current candidate instructions, identity requirements and technical checks.\nConfirm any accommodation through PeopleCert.\nCheck the booking timezone, rescheduling terms and package contents.",
+    "note": "Preparation checklist, not a substitute for the current candidate rules. PeopleCert offers an official eBook and a Learning Resource Kit with workbook and quick reference guide. Inclusion depends on the selected package. No purchase or exam booking is included here."
+  },
+  {
+    "title": "Official resources and next chapter",
+    "body": "PeopleCert Foundation page: exam facts and learning resources\nPeopleCert help: current candidate guidance\n\nNext chapter: digital products, services and value\n\nUse the linked official material alongside these independent explanations.",
+    "note": "Official screenshots and stencils are not included because reproduction rights for this distribution were not established. Official source links appear in the notes and accompanying PDF. ITIL and PeopleCert marks belong to their respective owners.",
+    "source": true
+  }
+]
