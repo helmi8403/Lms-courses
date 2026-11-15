@@ -1,6 +1,6 @@
 # AZ-305: Designing Azure Infrastructure Solutions
 
-**Latest: [Expanded edition v0.2 — source, PDF volumes and PowerPoint](editions/v0.2/README.md).** Independently authored, 15 November 2026. Earlier edition sources and exports below are preserved.
+**Latest: [Service, Plan and Architecture Decisions v0.3 — source, PDF and PowerPoint](editions/v0.3/README.md).** Independently authored, 15 November 2026. Earlier edition sources and exports below are preserved.
 
 ## Read the course
 

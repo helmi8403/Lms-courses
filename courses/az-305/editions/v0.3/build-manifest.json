@@ -1,0 +1,14 @@
+{
+  "edition": "v0.3",
+  "words": 21333,
+  "chapters": 12,
+  "tables": 55,
+  "references": 102,
+  "diagrams": 6,
+  "inputs": {
+    "az305-v3-identity-network.md": "125da248bec0f57e36ec2c3f7d083410c59e905d77281e64a64db836d4417ea3",
+    "az305-v3-data.md": "59a8e65172be2df4dbaef7e483e9bfab125e2ae43b3c70779ee1240349bc904e",
+    "az305-v3-compute.md": "5dc5ccca256e0b435905084a4e1b0278706a419de61a5b76834cc25812f8acea",
+    "az305-v3-synthesis.md": "7c23613329cdb1bc332d6cb9cc24f2cd9703df198691c48b5a5012cb2756f5b5"
+  }
+}

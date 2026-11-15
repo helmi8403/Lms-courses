@@ -1,0 +1,23 @@
+{
+  "Entra-Connect-Sync": "identity/03533-icon-service-Entra-Connect-Sync.svg",
+  "Tenant-Properties": "identity/02679-icon-service-Tenant-Properties.svg",
+  "App-Services": "web/10035-icon-service-App-Services.svg",
+  "Entra-Managed-Identities": "identity/10227-icon-service-Entra-Managed-Identities.svg",
+  "Key-Vaults": "security/10245-icon-service-Key-Vaults.svg",
+  "Users": "identity/10230-icon-service-Users.svg",
+  "Application-Gateways": "networking/10076-icon-service-Application-Gateways.svg",
+  "Virtual-Machine": "compute/10021-icon-service-Virtual-Machine.svg",
+  "Private-Endpoints": "other/02579-icon-service-Private-Endpoints.svg",
+  "SQL-Database": "databases/10130-icon-service-SQL-Database.svg",
+  "DNS-Zones": "networking/10064-icon-service-DNS-Zones.svg",
+  "Front-Door-and-CDN-Profiles": "web/10073-icon-service-Front-Door-and-CDN-Profiles.svg",
+  "Azure-Service-Bus": "integration/10836-icon-service-Azure-Service-Bus.svg",
+  "Function-Apps": "iot/10029-icon-service-Function-Apps.svg",
+  "Storage-Accounts": "storage/10086-icon-service-Storage-Accounts.svg",
+  "Data-Factories": "integration/10126-icon-service-Data-Factories.svg",
+  "Azure-Synapse-Analytics": "databases/00606-icon-service-Azure-Synapse-Analytics.svg",
+  "Application-Insights": "monitor/00012-icon-service-Application-Insights.svg",
+  "Data-Collection-Rules": "other/01857-icon-service-Data-Collection-Rules.svg",
+  "Log-Analytics-Workspaces": "monitor/00009-icon-service-Log-Analytics-Workspaces.svg",
+  "Alerts": "management + governance/00002-icon-service-Alerts.svg"
+}
